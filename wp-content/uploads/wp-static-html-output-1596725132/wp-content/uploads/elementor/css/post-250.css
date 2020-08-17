@@ -1,0 +1,18 @@
+.elementor-250 .elementor-element.elementor-element-52e2ca8e:not(.elementor-motion-effects-element-type-background), .elementor-250 .elementor-element.elementor-element-52e2ca8e > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #f0eeee;}
+.elementor-250 .elementor-element.elementor-element-52e2ca8e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 50px 0px 50px 0px;}
+.elementor-250 .elementor-element.elementor-element-52e2ca8e > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-250 .elementor-element.elementor-element-72499a69 {text-align: center;}
+.elementor-250 .elementor-element.elementor-element-79b274cb .elementor-spacer-inner {height: 30px;}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-posts-container .elementor-post__thumbnail {padding-bottom: calc(.5 * 100%);}
+.elementor-250 .elementor-element.elementor-element-169286de:after {content: "0.5";}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-post__meta-data span + span:before {content: "•";}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-posts-container {grid-column-gap: 30px;grid-row-gap: 35px;}
+.elementor-msie .elementor-250 .elementor-element.elementor-element-169286de .elementor-post {padding-right: calc(30px / 2);padding-left: calc(30px / 2);padding-bottom: 35px;}
+.elementor-msie .elementor-250 .elementor-element.elementor-element-169286de .elementor-posts-container {margin-left: calc(-30px / 2);margin-right: calc(-30px / 2);}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-post__card {border-width: 0px;}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-post__text {margin-top: 20px;}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-post__badge {right: 0;}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-post__card .elementor-post__badge {margin: 20px;}
+.elementor-250 .elementor-element.elementor-element-169286de .elementor-post__read-more {color: #fe0068;}
+@media (max-width:767px) {.elementor-250 .elementor-element.elementor-element-169286de .elementor-posts-container .elementor-post__thumbnail {padding-bottom: calc(.5 * 100%);}
+	.elementor-250 .elementor-element.elementor-element-169286de:after {content: "0.5";}}
